@@ -1,7 +1,7 @@
 # Cryptocurrencies
 ## Overview of the Analysis:
 
-The purpose of this analysis to to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for a new investment that Accountability Accounting, a prominent investment bank, is interested in offering in its new cryptocurrency investment portfolio.
+The purpose of this analysis to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for a new investment that Accountability Accounting, a prominent investment bank, is interested in offering in its new cryptocurrency investment portfolio.
 
 This will be achieved using unsupervised learning to process data, cluster and reduce dimensions using the principal components PCA.
 
